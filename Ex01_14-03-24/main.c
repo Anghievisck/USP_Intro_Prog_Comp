@@ -13,5 +13,5 @@ void main(){
 
     finalPrice = (totalDays*1000)+(totalHours*130);
 
-    printf("O orcamento eh de %d reais. O servico irah demorar %d diarias, %d horas e %d minutos\n", finalPrice, totalDays, totalHours, finalMinutes);
+    printf("O orcamento eh de %d reais. O servico irah demorar %d diarias, %d horas e %d minutos.", finalPrice, totalDays, totalHours, finalMinutes);
 }
