@@ -3,7 +3,7 @@
 void main(){
     int finalMinutes, totalHours, totalDays, finalPrice;
     
-    printf("Please insert the total of minutes of work:\n>>> ");
+    // printf("Please insert the total of minutes of work:\n>>> ");
     scanf("%d", &finalMinutes);
     
     totalHours = finalMinutes/60;
