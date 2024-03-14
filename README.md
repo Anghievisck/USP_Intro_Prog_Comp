@@ -1,0 +1,1 @@
+# Repo para exercicios em C da USP 1° Semestre
