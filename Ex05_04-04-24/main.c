@@ -1,5 +1,6 @@
 /*
-    This is a C programm that count how many numbers is in the input and shows the highest and lowest number
+    This is a C programm that count how many numbers is in the input
+    also it shows the highest and lowest number
 */
 
 #include <stdio.h>
