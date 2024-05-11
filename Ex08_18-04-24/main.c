@@ -45,7 +45,7 @@ int main(){
         biggestRow = biggestRow <= sums[i] ? sums[i] : biggestRow;
         smallestCol = smallestCol >= sums[i] ? sums[i] : smallestCol;
     }
-    
+
     // Gets the difference
     difference = biggestRow - smallestCol;
 
